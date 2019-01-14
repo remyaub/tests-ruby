@@ -5,7 +5,7 @@ Small exercices in Ruby -- RSpec 3 Edition
 
 Partialy done by myself. (Not in a good mood, could not finish it...)
 
-Github = remyaub
+Github = remyaub <br>
 Slack = Rémy
 
 
