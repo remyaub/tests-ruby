@@ -15,7 +15,7 @@ def sum(array)
 	return array.reduce(0){|sum, x| BigDecimal(sum, 16) + BigDecimal(x, 16)}
 end
 
-def multiply(elements)
+def multiply(*elements)
 	return elements.reduce{|product, x| BigDecimal(product, 16) * BigDecimal(x, 16)}
 
 end
