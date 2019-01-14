@@ -23,17 +23,3 @@ end
 def power(number, power)
 	return number**power
 end
-
-def factorial(n)
-	if n == 0
-		return 1
-	end
-	return factorial(n-1)*n
-end
-
-def perform
-	multiply([2,3])
-end
-
-perform
-
